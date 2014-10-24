@@ -6,7 +6,7 @@ Versions:
 - 1.4.4
 Website: https://github.com/KevinHorvatin/openshift-nginx-cart
 Cartridge-Version: 0.0.2
-Cartridge-Vendor: KevinHorvatin
+Cartridge-Vendor: unicornucopia
 Categories:
 - service
 - nginx
